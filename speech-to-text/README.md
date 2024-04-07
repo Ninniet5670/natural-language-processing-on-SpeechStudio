@@ -1,0 +1,1 @@
+https://speech.microsoft.com/ -> Settings -> Create new resource -> Conversão de fala em texto em tempo real -> RUN

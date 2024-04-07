@@ -1,0 +1,1 @@
+https://portal.azure.com/ -> Create a resource -> AI + Machine Learning -> Language Service CREATE -> https://language.cognitive.azure.com/ -> Classify text -> Analyze sentiment and opinions -> RUN

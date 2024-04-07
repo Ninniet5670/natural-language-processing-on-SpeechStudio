@@ -1,0 +1,192 @@
+[
+    {
+        "Id": "5fd6028daa424baf8a0145c4a4253d61",
+        "RecognitionStatus": 0,
+        "Offset": 1500000,
+        "Duration": 12400000,
+        "Channel": 0,
+        "DisplayText": "Tá na hora de virar.",
+        "NBest": [
+            {
+                "Confidence": 0.7382243,
+                "Lexical": "tá na hora de virar",
+                "ITN": "tá na hora de virar",
+                "MaskedITN": "tá na hora de virar",
+                "Display": "Tá na hora de virar.",
+                "Words": [
+                    {
+                        "Word": "tá",
+                        "Offset": 1500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "hora",
+                        "Offset": 4700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 6700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "virar",
+                        "Offset": 7900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.75484824,
+                "Lexical": "está na hora de virar",
+                "ITN": "está na hora de virar",
+                "MaskedITN": "está na hora de virar",
+                "Display": "está na hora de virar",
+                "Words": [
+                    {
+                        "Word": "está",
+                        "Offset": 700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "hora",
+                        "Offset": 4700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 6700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "virar",
+                        "Offset": 7900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.64584494,
+                "Lexical": "e tá na hora de virar",
+                "ITN": "e tá na hora de virar",
+                "MaskedITN": "e tá na hora de virar",
+                "Display": "e tá na hora de virar",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "tá",
+                        "Offset": 1500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "hora",
+                        "Offset": 4700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 6700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "virar",
+                        "Offset": 7900000,
+                        "Duration": 6000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.551518,
+                "Lexical": "tá na hora de vira",
+                "ITN": "tá na hora de vira",
+                "MaskedITN": "tá na hora de vira",
+                "Display": "tá na hora de vira",
+                "Words": [
+                    {
+                        "Word": "tá",
+                        "Offset": 1500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "hora",
+                        "Offset": 4700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 6700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "vira",
+                        "Offset": 7900000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.62926435,
+                "Lexical": "está na hora de virar herói",
+                "ITN": "está na hora de virar herói",
+                "MaskedITN": "está na hora de virar herói",
+                "Display": "está na hora de virar herói",
+                "Words": [
+                    {
+                        "Word": "está",
+                        "Offset": 700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 2700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "hora",
+                        "Offset": 4700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 6700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "virar",
+                        "Offset": 7900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "herói",
+                        "Offset": 11500000,
+                        "Duration": 4000000
+                    }
+                ]
+            }
+        ]
+    }
+]

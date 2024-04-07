@@ -1,0 +1,156 @@
+{
+    "documents": [
+        {
+            "id": "id__7723",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.05,
+                "neutral": 0.13,
+                "negative": 0.81
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 0,
+                    "length": 78,
+                    "text": "My recent experience at Hotel Maresia was, unfortunately, a complete letdown. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.08,
+                                "negative": 0.92
+                            },
+                            "offset": 24,
+                            "length": 13,
+                            "text": "Hotel Maresia",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.08,
+                                "negative": 0.92
+                            },
+                            "offset": 69,
+                            "length": 7,
+                            "text": "letdown",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.19,
+                        "neutral": 0.43,
+                        "negative": 0.37
+                    },
+                    "offset": 78,
+                    "length": 131,
+                    "text": "The name \"Maresia\" promises a refreshing sea breeze and a beachside experience, but what we found was far from that idyllic image. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 209,
+                    "length": 91,
+                    "text": "Firstly, upon arrival, we were greeted by an uninterested and unwelcoming reception staff. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.02,
+                                "negative": 0.98
+                            },
+                            "offset": 283,
+                            "length": 15,
+                            "text": "reception staff",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 254,
+                            "length": 12,
+                            "text": "uninterested",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.02,
+                                "negative": 0.98
+                            },
+                            "offset": 271,
+                            "length": 11,
+                            "text": "unwelcoming",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.2,
+                        "neutral": 0.2,
+                        "negative": 0.59
+                    },
+                    "offset": 300,
+                    "length": 118,
+                    "text": "They seemed more engrossed in personal conversations among themselves than ensuring a pleasant experience for guests. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.31,
+                        "negative": 0.68
+                    },
+                    "offset": 418,
+                    "length": 74,
+                    "text": "There was no orientation about the hotel facilities or available services.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
